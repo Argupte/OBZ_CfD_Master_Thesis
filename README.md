@@ -81,6 +81,14 @@ Adjustable via `OWF_response.jl` or `results_OBZ_CfD.jl`. Supported types includ
 
 ---
 
+##  References
+
+- Kenis, M., Delarue, E., Bruninx, K., & Dominguez, F. (2023). *Off-shore Bidding Zones under Flow-Based Market Coupling*. In 2023 IEEE Belgrade PowerTech (PowerTech 2023). IEEE. [https://doi.org/10.1109/PowerTech55446.2023.10202755](https://doi.org/10.1109/PowerTech55446.2023.10202755)
+
+- Verkooijen, D. (2024). *Unlocking Offshore Hybrid Projects: Modelling Price and Volume Risks and their Mitigation Measures for Offshore Hybrid Projects in Offshore Bidding Zones under Flow-Based Market Coupling* (Master's thesis, TU Delft). [TU Delft Repository Link](https://repository.tudelft.nl/record/uuid:e05f4ed6-857f-4e0f-a309-42e6b693dc06)
+
+---
+
 ##  Contact
 
 Email: gupteanurag1@gmail.com  
