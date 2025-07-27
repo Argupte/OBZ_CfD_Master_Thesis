@@ -8,6 +8,14 @@ This repository contains all code and models developed for my MSc thesis at TU D
 
 ---
 
+##  Requirements
+
+- [Julia](https://julialang.org/) programming language (version 1.8 or higher recommended)
+- Gurobi Optimiser with academic licence (for solving optimisation problems)
+- Basic knowledge of Julia and JuMP is helpful for modifying and extending the model
+
+---
+
 ##  Repository Structure
 
 | File | Description |
