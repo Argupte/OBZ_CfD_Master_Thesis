@@ -84,4 +84,4 @@ Adjustable via `OWF_response.jl` or `results_OBZ_CfD.jl`. Supported types includ
 ##  Contact
 
 Email: gupteanurag1@gmail.com  
-LinkedIn: [www.linkedin.com/in/anurag-gupte]
+LinkedIn: [Anurag Gupte](https://www.linkedin.com/in/anurag-gupte)
