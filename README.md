@@ -2,9 +2,9 @@
 
 This repository contains all code and models developed for my MSc thesis at TU Delft, which investigates how offshore wind farms interact with zonal electricity markets under different Contracts for Difference (CfD) configurations. The work includes a detailed modelling framework for flow-based market coupling, scenario generation, and welfare evaluation.
 
-📄 **Thesis**: [TU Delft Repository Link](https://repository.tudelft.nl/record/uuid:23f99141-ac43-40f1-aad4-f8c5d94a24de)  
-📘 **Programme**: MSc Sustainable Energy Technology, TU Delft  
-🗓️ **Year**: 2025
+ **Thesis**: [TU Delft Repository Link](https://repository.tudelft.nl/record/uuid:23f99141-ac43-40f1-aad4-f8c5d94a24de)  
+ **Programme**: MSc Sustainable Energy Technology, TU Delft  
+ **Year**: 2025
 
 ---
 
